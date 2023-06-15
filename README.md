@@ -2,10 +2,15 @@
 
 Definições Projeto:
 
+- Repositório para armazenar dados do Pipeline utilizando modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Tableau ou Power BI
 
+Tarefas:
 
+Ifraestrutra:
 
-INFRAESTRUTURA:
-
-- 1 subir airbyte docker.
-- 2 subir airflow docker.
+- Seup do ambiente de desenvolvimento (Hardware, Softaware - Linux, Python, Docker, Curl, Pip, Git, etc...)
+- subir airbyte via docker.
+- subir airflow via docker.
+- Criar Script de execução.
+- Testar a execução.
+-
