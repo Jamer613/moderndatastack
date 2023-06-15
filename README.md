@@ -6,11 +6,12 @@ Definições Projeto:
 
 Tarefas:
 
-Ifraestrutra:
+Infraestrutra:
 
 - Seup do ambiente de desenvolvimento (Hardware, Softaware - Linux, Python, Docker, Curl, Pip, Git, etc...)
 - subir airbyte via docker.
 - subir airflow via docker.
 - Criar Script de execução.
 - Testar a execução.
--
+
+
