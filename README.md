@@ -14,4 +14,5 @@ Infraestrutra:
 - Criar Script de execução.
 - Testar a execução.
 
-
+- Criar conta snowflake X
+- Conectar através do airbyte tabelas com data warehouse snowflake X
