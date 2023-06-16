@@ -10,7 +10,7 @@ Infraestrutra:
 
 - Seup do ambiente de desenvolvimento (Hardware, Softaware - Linux, Python, Docker, Curl, Pip, Git, etc...) X
 - subir airbyte via docker X
-- subir airflow via docker.
+- subir airflow via docker X
 - Criar Script de execução.
 - Testar a execução.
 
