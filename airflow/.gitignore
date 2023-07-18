@@ -1,1 +1,2 @@
 logs/*
+airflow/dags/__pycache__/dag_airbyte_dbt.cpython-37.pyc

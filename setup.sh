@@ -30,16 +30,16 @@ up() {
 config() {
 
   echo "Connecting Airflow with Airbyte..."
-  echo "Enter your Airbyte Epidemiology connection ID: "
+  echo "Entre com sua airbyte Epidemiology connection ID: "
   read epidemiology_connection_id
 
-  echo "Enter your Airbyte Economy connection ID: "
+  echo "Entre com sua airbyte Economy connection ID: "
   read economy_connection_id
 
-  echo "Enter your Airbyte Demographics connection ID: "
+  echo "Entre com sua airbyte demographics connection ID: "
   read demographics_connection_id
 
-  echo "Enter your Airbyte Index connection ID: "
+  echo "Entre com sua airbyte Index connection ID: "
   read index_connection_id
 
   # Set connection IDs for DAG.
