@@ -67,30 +67,30 @@ Visualização:
 
 - No Metabase:
 
-    - Conectar Metabase com o Snowflake 
-    - Criar uma Question  
-    - Criar um Dashboard 
-    - Adicionar uma Question 
-    - Visualizar o Resultado  
+    - Conectar Metabase com o Snowflake x
+    - Criar uma Question  x
+    - Criar um Dashboard x
+    - Adicionar uma Question x
+    - Visualizar o Resultado x
 
 
 Orquestração:
 
 - No Airflow:
 
-    - Criar a dag  
+    - Criar a dag x
 
-    - Criar a Docker network
+    - Criar a Docker network x
 
-    - Incluir nos composes a network criada
+    - Incluir nos composes a network criada x
 
-    - Setup Up no serviço
+    - Setup Up no serviço x
 
-    - Testar a conexao entre os containers do airflow e do airbyte
+    - Testar a conexao entre os containers do airflow e do airbyte x
 
-    - Criar as conexões com o Airbyte através do script  
+    - Criar as conexões com o Airbyte através do script x  
 
-    - Testar a execução do pipeline  
+    - Testar a execução do pipeline x
 
 
 Encerramento:
