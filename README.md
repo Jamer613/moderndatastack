@@ -19,7 +19,7 @@ Documentação do Metabase https://www.metabase.com/docs/latest/
 Link datasets utilizados https://health.google.com/covid-19/open-data/raw-data
 
 
-# Tarefas a serem executadas para o Projeto Modern_data_stack:
+# Tarefas a serem executadas:
 
 
 Tarefas:
