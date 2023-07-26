@@ -1,5 +1,25 @@
-# airbyte-dbt-airflow-snowflake-metabase
-Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Metabase
+# Data Engineering com Modern_data_Stack.
+
+Objetivos do Projeto - Criar um pipeline de dados utilizando modern data stack de ponta a ponta, desde a extração, carregamento, tratamento, ingestão, orquestração e consumo pelo usuário final. 
+
+Documentação:
+
+Ambiente de Desenvolvimento https://www.gitpod.io/
+
+Documentação do Airbyte https://airbytehq.github.io/
+
+Documentação do Airflow https://airflow.apache.org/docs/
+
+Documentação do Dbt https://docs.getdbt.com/
+
+Documentação do Snowflake https://docs.snowflake.com/en/
+
+Documentação do Metabase https://www.metabase.com/docs/latest/
+
+Link datasets utilizados https://health.google.com/covid-19/open-data/raw-data
+
+
+# Tarefas a serem executadas para o Projeto Modern_data_stack:
 
 
 Tarefas:
@@ -92,14 +112,7 @@ Orquestração:
 
     - Testar a execução do pipeline x
 
-
 Encerramento:
 
-- Material de Apoio:
+Concluo que o projeto é totalmente funcional, com um ótimo desempenho, facilidade no desenvolvimento, praticamento um projeto low code, atingindo assim o objetivo inicial, saliente que para utiliza-lo em um ambiente de produção seria necessário alguns passos a mais, como algumas configurações do ambiente, e gerenciamento dos containers através de Kubernets ou ferramentas desta finalidade. 
 
-    - Links 
-
-    - Códigos fonte
-
-    - Apresentação
-	
